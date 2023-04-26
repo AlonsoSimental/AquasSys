@@ -48,11 +48,11 @@
     <!--Inicio Div para el Carousel-->
     <div>
         <v-carousel show-arrows="hover">
-            <v-carousel-item src="https://cdn.vuetifyjs.com/images/cards/docks.jpg" cover></v-carousel-item>
+            <v-carousel-item src="https://i.ibb.co/fQBmyfW/banner1.jpg" cover></v-carousel-item>
 
-            <v-carousel-item src="https://cdn.vuetifyjs.com/images/cards/hotel.jpg" cover></v-carousel-item>
+            <v-carousel-item src="https://i.ibb.co/9cjRDMz/banner2.jpg" cover></v-carousel-item>
 
-            <v-carousel-item src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg" cover></v-carousel-item>
+            <v-carousel-item src="https://i.ibb.co/Qbp3ySb/banner3.jpg" cover></v-carousel-item>
         </v-carousel>
     </div>
     <!--Fin Div para el Carousel-->
